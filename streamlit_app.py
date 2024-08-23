@@ -20,7 +20,7 @@ def add_bg_from_local(image_file):
     )
 
 # Call the function to add a background image
-add_bg_from_local('background.jpg')
+add_bg_from_local('C:\Users\youss\OneDrive\Desktop\portfolio\background.jpg')
 
 # Set the title with custom font and style
 st.markdown("<h1 style='text-align: center; color: white;'>Car CO2 Emission Predictor</h1>", unsafe_allow_html=True)
